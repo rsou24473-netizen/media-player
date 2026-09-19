@@ -1,0 +1,6 @@
+{
+  "name": "Media Player",
+  "description": "A high-performance media player supporting MP4, MP3, and all audio/video formats with 3D Spatial Room, Orbit, Living Interface, Bento, Masonry, and Editorial layouts, FLAC lossless streaming, customizable video profile avatars, and audio effects.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
